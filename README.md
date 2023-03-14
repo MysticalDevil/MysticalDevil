@@ -14,4 +14,4 @@ I'm MysticalDevil, a new programmer.
 
 - [`Gohub`](https://github.com/MysticalDevil/Gohub) Formu API project implemented by Gin framework. After completion, plan to use Fiber and Iris to rewrite.
 
-- [`neovim-config`](https://github.com/MysticalDevil/neovim-config) The configuration file of Neovim is mainly configured by TypeScript ans Rust.
+- [`nvim`](https://github.com/MysticalDevil/nvim) The configuration file of Neovim is mainly configured by TypeScript ans Rust.
