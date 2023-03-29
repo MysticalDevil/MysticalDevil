@@ -8,7 +8,7 @@ I'm MysticalDevil, a new programmer.
 
 ### Programming language overview
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MysticalDevil&exclude_repo=mysticaldevil.github.io&exclude_repo=MysticalDevilSource&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MysticalDevil&exclude_repo=mysticaldevil.github.io,MysticalDevilSource&theme=dark&layout=compact)
 
 ### Pinned responsitory
 
