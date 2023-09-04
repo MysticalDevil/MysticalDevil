@@ -2,13 +2,12 @@
 
 I'm MysticalDevil, a new programmer.
 
-### Responsitory overview
+### GitHub Analytics
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=MysticalDevil&show_icons=true&theme=dark&count_private=true)
-
-### Programming language overview
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MysticalDevil&exclude_repo=mysticaldevil.github.io,MysticalDevilSource&theme=dark&layout=compact)
+<a href="https://github.com/Hamusuta0320">
+   <img align="" height="137.9px" src="https://github-readme-stats.vercel.app/api?username=MysticalDevil&include_all_commits=true&count_private=true&hide_title=true&show_icons=true&include_all_commits=true&line_height=21"/>
+   <img align="" height="137.9px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MysticalDevil&hide_title=true&layout=compact"/>
+</a>
 
 ### Pinned responsitory
 
