@@ -24,4 +24,4 @@ pub fn main() !void {
 
 - [`nvim`](https://github.com/MysticalDevil/nvim) The configuration file of Neovim is mainly configured by TypeScript ans Rust.
 - [`nvim-lite`](https://github.com/MysticalDevil/nvim-lite) My nvim config simplifily version.
-- [`zig_orm_sqlite`](https://github.com/MysticalDevil/zig_orm_sqlite) A SQLite-based Data Mapper-style ORM library (for leanring purposes only, not suitable for production use).
+- [`zite`](https://github.com/MysticalDevil/zite) A SQLite-based Data Mapper-style ORM library (for leanring purposes only, not suitable for production use).
