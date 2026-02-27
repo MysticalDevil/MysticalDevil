@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm MysticalDevil, a new programmer.
+I'm MysticalDevil, a beginner programmer.
 
 ### GitHub Analytics
 
@@ -22,6 +22,6 @@ pub fn main() !void {
 
 ### Pinned repository
 
-- [`nvim`](https://github.com/MysticalDevil/nvim) The configuration file of Neovim is mainly configured by TypeScript and Rust.
-- [`nvim-lite`](https://github.com/MysticalDevil/nvim-lite) A simplified version of my Neovim config.
-- [`zite`](https://github.com/MysticalDevil/zite) A SQLite-based Data Mapper-style ORM library (for learning purposes only, not suitable for production use).
+- [`nvim`](https://github.com/MysticalDevil/nvim) A Neovim configuration mainly written in TypeScript and Rust.
+- [`nvim-lite`](https://github.com/MysticalDevil/nvim-lite) A simplified version of my Neovim configuration.
+- [`zite`](https://github.com/MysticalDevil/zite) A SQLite-based Data Mapper-style ORM library for learning purposes only, and not suitable for production use.
