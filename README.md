@@ -25,3 +25,4 @@ pub fn main() !void {
 - [`nvim`](https://github.com/MysticalDevil/nvim) A Neovim configuration mainly written in TypeScript and Rust.
 - [`nvim-lite`](https://github.com/MysticalDevil/nvim-lite) A simplified version of my Neovim configuration.
 - [`zite`](https://github.com/MysticalDevil/zite) A SQLite-based Data Mapper-style ORM library for learning purposes only, and not suitable for production use.
+- [`gout`](https://github.com/MysticalDevil/gout) A lightweight Go web framework inspired by Gin.
