@@ -12,7 +12,6 @@ const User = struct {
     role: []const u8,
     editor: []const u8,
     languages: []const []const u8,
-    building: []const []const u8,
 };
 
 pub fn main() !void {
@@ -21,7 +20,6 @@ pub fn main() !void {
         .role = "beginner programmer",
         .editor = "Neovim",
         .languages = &.{ "Go", "Zig", "Lua" },
-        .building = &.{ "gout", "zite", "nvim config" },
     };
 
     std.debug.print("== {s}'s Terminal Dashboard ==\n", .{me.name});
@@ -33,14 +31,6 @@ pub fn main() !void {
         if (i != 0) std.debug.print(" | ", .{});
         std.debug.print("{s}", .{lang});
     }
-    std.debug.print("\n", .{});
-
-    std.debug.print("building  : ", .{});
-    for (me.building, 0..) |project, i| {
-        if (i != 0) std.debug.print(", ", .{});
-        std.debug.print("{s}", .{project});
-    }
-    std.debug.print("\nstatus    : shipping small things, learning fast\n", .{});
 }
 ```
 
